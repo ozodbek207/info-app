@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/drawable/back.xml" value="0.128" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1165" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.139" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_about.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item1.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item10.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item11.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item12.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item13.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item14.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item15.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item16.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item17.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item2.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item3.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item4.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item5.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item6.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item7.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item8.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_item9.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-land/activity_main.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout-sw600dp/activity_item1.xml" value="0.153125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_about.xml" value="0.33" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item10.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item11.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item12.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item13.xml" value="0.15754001684919966" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item14.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item15.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item16.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item17.xml" value="0.18" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item8.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_item9.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/menu/menu_nav.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.106" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Institut/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
